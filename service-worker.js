@@ -1,6 +1,6 @@
 const CACHE_NAME = 'caloriesnap-v1';
 const APP_SHELL = [
-  new URL('./caloriesnap.html', self.registration.scope).toString(),
+  new URL('./index.html', self.registration.scope).toString(),
   new URL('./manifest.webmanifest', self.registration.scope).toString(),
   new URL('./icons/caloriesnap-icon.svg', self.registration.scope).toString()
 ];

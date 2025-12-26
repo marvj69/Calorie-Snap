@@ -2,7 +2,7 @@
   "name": "CalorieSnap AI",
   "short_name": "CalorieSnap",
   "description": "Snap a meal and estimate calories with AI.",
-  "start_url": "./caloriesnap.html",
+  "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "background_color": "#f2f2f7",
