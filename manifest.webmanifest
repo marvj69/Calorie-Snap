@@ -1,0 +1,19 @@
+{
+  "name": "CalorieSnap AI",
+  "short_name": "CalorieSnap",
+  "description": "Snap a meal and estimate calories with AI.",
+  "start_url": "./caloriesnap.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f2f2f7",
+  "theme_color": "#007AFF",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icons/caloriesnap-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
